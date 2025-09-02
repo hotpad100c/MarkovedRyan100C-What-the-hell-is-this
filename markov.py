@@ -27,6 +27,9 @@ class model:
                     self.p[self.forward[i[j]]][self.forward[i[j+1]]]+=1
     def run(self):
         cur=0
+        s=""
         while cur!=1:
             cur=random.choices([i for i in range(self.l)],self.p[cur])[0]
+            s+=self.backward[cur]
             print(self.backward[cur],end='')
+        return s
