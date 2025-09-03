@@ -2,7 +2,7 @@ name: Rubbish of The Day
 on:
     workflow_dispatch:
     schedule:
-      - cron: "0 20 * * *"
+      - cron: "0 16 * * *"
 jobs:
     rubbish_of_the_day:
         name: Rubbish of The Day
