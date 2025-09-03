@@ -7,7 +7,7 @@ sys.path.append('.')
 print(sys.path)
 import markov
 Ryan100C=markov.model()
-with open("Ryan100c_datas.txt",encoding='utf-8') as f:
+with open("Ryan100C_datas.txt",encoding='utf-8') as f:
     Ryan100C.train(f.readlines())
 s+='- '.join([Ryan100C.run() for i in range(10)])
 print(s)
