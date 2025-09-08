@@ -1,13 +1,13 @@
 # MarkovedRyan100C
 To gennerate rubbish sentences.
 ## Rubbish Of The Day
-- dabakakindì iserz
-- 咋了
-- enbrancenda Indang is t.lvthindaz
-- 可以暂停。
-- ❌️
-- 双向中继器，
-- 我司不想做嘛
-- 咋了
-- 你是驴头像
-- 这么我害怕
+- 效率很
+- 分明您被暂停。
+- 妹永远可乐是动画画画
+- 我记得可以10
+- u chisou sou inbltenchancrs -Ma s curmNGencerG炼金
+- 对话能穿戴衣物
+- 我用马尔科夫链生电区传来答
+- 欸Q群没空，
+- 您有权拥有正在教汉语
+- 您被暂停了
