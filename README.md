@@ -1,13 +1,13 @@
 # MarkovedRyan100C
 To gennerate rubbish sentences.
 ## Rubbish Of The Day
-- 效率很
-- 分明您被暂停。
-- 妹永远可乐是动画画画
-- 我记得可以10
-- u chisou sou inbltenchancrs -Ma s curmNGencerG炼金
-- 对话能穿戴衣物
-- 我用马尔科夫链生电区传来答
-- 欸Q群没空，
-- 您有权拥有正在教汉语
-- 您被暂停了
+- 你见过1小乌龟会再搁一次是动画画片
+- 你植入后端了的合法权拥有您的
+- 我封禁了
+- 他
+- 妹妹永远可乐是不会
+- 他死
+- 正常对啊
+- 我用你见过15分钟不是无糖的大量图片
+- ❌️
+- 我害怕
