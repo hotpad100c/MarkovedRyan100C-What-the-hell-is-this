@@ -1,13 +1,13 @@
 # MarkovedRyan100C
 To gennerate rubbish sentences.
 ## Rubbish Of The Day
-- 好看它像
-- 看懂是
-- 不会说英语
-- 6这小乌龟会
-- 一个服务所以不是不过15年，生电区传来噩耗，根据研究发现在教徒，生电区传来噩耗，睡觉超前现在感到不满
-- 为什么
-- 你仔细看
-- 请你比我现在感到不睡家，，生电区传来噩耗，直到诡异
-- 看它像伪人晚上吊的权利。
-- 所以模拟恐怖了103ds Inngthath ercerer说中继器
+- 一个人晚上可乐是想做嘛
+- 效率很
+- tf
+- 谁来噩耗，请你确定不满
+- 什么这不知道啊
+- Rathangers rGerG炼金
+- 不睡48hineammmblis Forazy
+- 该要求不是 Foredì forerm天睡家，，
+- 我们”
+- 对啊
