@@ -1,13 +1,13 @@
 # MarkovedRyan100C
 To gennerate rubbish sentences.
 ## Rubbish Of The Day
-- 你不起
-- 66这么玩意叫Ranvltunendì crzy
-- 这是一会关闭，中国人啊无糖的
-- 那玩意叫RNG是不具有正常对啊
-- qiú
-- 欸QQQQ群的可以模型
-- 欸QQQ群的小乌龟会说英语
-- 我现，
-- 像是有逻辑啊
-- E is iú
+- 反正常对话时反而会说话时反正在于当前了
+- 看到诡异的合法性
+- ❌️
+- wenbazy
+- ty
+- 你可夫链生电区传来噩耗，根据研究发
+- 看什么这种东西
+- 对话能穿戴衣物
+- 缺点是无糖的设备拉取大脑了
+- Yoram天睡家，
