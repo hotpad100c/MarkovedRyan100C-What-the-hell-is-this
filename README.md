@@ -1,13 +1,13 @@
 # MarkovedRyan100C
 To gennerate rubbish sentences.
 ## Rubbish Of The Day
-- 这种东西
-- 这次看什么诡异
-- u Ine
-- 耐久 o不要吗
-- 看我害怕
-- 正在看什么诡异的大脑了
-- 这是无糖的是RNG炼金
-- 一个是RNG是ommbang s
-- 第一个人啊
-- 你
+- 好看不要用你看懂了的
+- E wer说英语
+- 它像换了
+- 妹永远可以找到不懂了怀疑你见过19gt.l.ltomNG是驴头和熊猫在在感到诡异的可夫链生成汉语
+- 你将被暂停了
+- 我最近没有后端了
+- 这里没空，根据研究发
+- 他
+- 什么玩意
+- u l.lvabliseg 还是太超前了
