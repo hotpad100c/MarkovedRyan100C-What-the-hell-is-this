@@ -1,13 +1,13 @@
 # MarkovedRyan100C
 To gennerate rubbish sentences.
 ## Rubbish Of The Day
-- 这是上可以模拟恐怖了
-- 反而会
-- 您的啊
-- 我祖父是0个错误，请证明您认为什么
-- 那是不关服务所以不满
-- 您的合法balth relerembe
-- 我的小乌龟会吧
-- erem -Makid
-- 请证明您认为这是
-- 这个是RNG炼金
+- 这是动画
+- 咋了怀疑你见过19g ch qiú
+- 我现实
+- 看不关闭，如果您的问谁啊
+- 我祖父是真的啊
+- 妹现在于当前了（）
+- 矿车钟不睡48halthiseatfo不起
+- 你仔细看懂了
+- 学生一天线宝
+- 好怀疑你植入后门和他
