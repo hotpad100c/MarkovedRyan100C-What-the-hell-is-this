@@ -21,9 +21,9 @@ class model:
                     if len(i)>1:
                         self.p[self.forward[i[j]]][self.forward[i[j+1]]]+=1
                     self.p[0][self.forward[i[j]]]+=1
-                elif j==len(i)-1:
+                if j==len(i)-1:
                     self.p[self.forward[i[j]]][1]+=1
-                else:
+                if j!=0 and j!=len(i)-1:
                     self.p[self.forward[i[j]]][self.forward[i[j+1]]]+=1
     def run(self):
         cur=0
