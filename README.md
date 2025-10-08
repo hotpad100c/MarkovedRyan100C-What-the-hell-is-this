@@ -1,13 +1,13 @@
 # MarkovedRyan100C
 To gennerate rubbish sentences.
 ## Rubbish Of The Day
-- ❌
-- 你确定那玩意
-- 6
-- 这么诡异
-- 他表情闪烁吗
-- 我封禁了
-- 他表达了您被暂停你将被暂停。
-- 还是我司具有合法权力并有人偶表达了的小乌龟说话能力，根据研究发
-- 一天线宝宝宝
-- ed rakis eaz
+- 像换网址了
+- dourzy
+- 耐久 blitoumm rG炼金
+- 学生电区传来的问谁来噩耗，
+- 看
+- 为什么这是压了
+- 这种东西
+- 看到下一会画
+- 套35
+- 我的小乌龟说中国人晚上可乐是RNG炼金
