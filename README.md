@@ -1,13 +1,13 @@
 # MarkovedRyan100C
 To gennerate rubbish sentences.
 ## Rubbish Of The Day
-- 你做嘛
-- 失败了
-- 失败了
-- dì wt.ltanncunbers babakis 还是无糖的权拥有人啊
-- 他不过10
-- 有您有正常对话能力并有合法权拥有正很
-- e换网址了怀疑你信不满
-- 什么我大脑了
-- 他表情闪烁吗
-- ❌
+- 咋了的
+- 要死
+- 还是驴头像
+- orz
+- ❌️
+- 6
+- 你信你仔细看到不存在感到不满
+- tfouredanntu randat似乎太短了
+- 这次看他表情闪烁吗
+- 袋鼠小乌龟会再启动
