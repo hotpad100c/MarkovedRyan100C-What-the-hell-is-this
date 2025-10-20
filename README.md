@@ -1,13 +1,13 @@
 # MarkovedRyan100C
 To gennerate rubbish sentences.
 ## Rubbish Of The Day
-- 还“孩子们结束绘画片
-- 你不睡家，生成汉文
-- 开眼了
-- 什么
-- 但表情僵硬
-- ❌
-- 套3d went似乎太短了
-- 什么我的小众动
-- 还是您的合法权力，，根据研究发现在帮你的问题。
-- 你见过19gt.2000个错误，我记得可以模型
+- 对不具有权利。
+- 我用马尔科夫链生电区传来的合法blea erz
+- 套3doraz
+- d
+- doredaled s bakis thandors chis fo不是压了1035年，生电区传来噩耗，请你的权利。
+- d cenbaz
+- 看懂了
+- 袋鼠小乌龟会再搁一次是驴头和他
+- 我的！
+- 你群没法权拥有限的救治。
