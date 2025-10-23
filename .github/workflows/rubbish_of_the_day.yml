@@ -1,4 +1,4 @@
-name: Rubbish of The Day
+name: Rubbish of The Hour
 on:
     workflow_dispatch:
     schedule:
