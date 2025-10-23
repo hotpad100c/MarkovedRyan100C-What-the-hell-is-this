@@ -1,33 +1,33 @@
 # MarkovedRyan100C
 To gennerate rubbish sentences.
 ## Rubbish Of The Hour
-- 我用的可以1000
-- 什么我用的合法band
-- thakakaka chis tf
-- 他不会关闭，，
-- 不具有逻辑啊
-- 对不要求不过19g is rzy
-- 不具有合法权力，中国人。
-- 25
-- 这种东西
-- qis
-- （）
-- 你比我司不会说中继器，，
-- 你
-- 25
-- 不想做嘛
-- 你群没法bers cum天睡觉超前现，生成汉语
-- 你好看到这种东西
-- 矿车钟？）
-- 袋鼠小人吗
-- 耐久 bedaz
-- E -Makithitam 还“孩子们”
-- 我最近没有后门和熊猫在于当前了
-- E this tamNGed
-- 什么
-- 为什么我最近没空，中继器
-- ❌️
-- 你的
-- 正在教汉语地址了
+- 为这小众动画
+- 你确定不会再用的人。
+- 我们结束绘画
+- 不过19g is cr说英语地带转来噩耗，直到这次是压了
+- ❌️✋️✋️
+- 失败了19gta Inenty
+- oream e lenblt.20
+- 要吗
+- 为什么诡异
+- 第一定那些vakitupenbreambanvlel.2035年，
+- 我害怕
+- qidì bang tundakida cum Ing ipers e换网址
+- 他死
+- ？
+- 矿车钟？
+- E cumblvakis foupel.lis lengthis s is tup地带转发
+- 有限的大量图片
+- 为什么
+- 他表情闪烁吗
+- 请你群的设备拉取大脑性能力并有人偶表情僵硬
+- 可乐是上可以1小众动画
+- dì ceg ingtf
 - 6
-- 我最近没空，我祖父是我大脑性
+- 6666
+- 双向中文
+- 缺点是干啥了
+- 但表情闪烁吗
+- 为这小乌龟说中文
+- 生一会
+- orG炼金
