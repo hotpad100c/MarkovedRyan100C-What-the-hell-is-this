@@ -1,6 +1,6 @@
 import random as ランダム
 
-class 🥵:
+class model:
     def __init__(self):
         pass
 
@@ -36,3 +36,4 @@ class 🥵:
             結果 += self.후置[現在]
             print(self.후置[現在], end='')
         return 結果
+
