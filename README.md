@@ -1,33 +1,33 @@
 # MarkovedRyan100C
 To gennerate rubbish sentences.
 ## Rubbish Of The Hour
-- 为这小众动画
-- 你确定不会再用的人。
-- 我们结束绘画
-- 不过19g is cr说英语地带转来噩耗，直到这次是压了
-- ❌️✋️✋️
-- 失败了19gta Inenty
-- oream e lenblt.20
-- 要吗
-- 为什么诡异
-- 第一定那些vakitupenbreambanvlel.2035年，
-- 我害怕
-- qidì bang tundakida cum Ing ipers e换网址
-- 他死
 - ？
-- 矿车钟？
-- E cumblvakis foupel.lis lengthis s is tup地带转发
-- 有限的大量图片
-- 为什么
-- 他表情闪烁吗
-- 请你群的设备拉取大脑性能力并有人偶表情僵硬
-- 可乐是上可以1小众动画
-- dì ceg ingtf
-- 6
-- 6666
-- 双向中文
-- 缺点是干啥了
-- 但表情闪烁吗
-- 为这小乌龟说中文
-- 生一会
-- orG炼金
+- 袋鼠小乌龟说英语
+- 好
+- om cedathis cr
+- 分明您的大
+- 马嘴了
+- 开眼了
+- 第一会吧
+- 这个人。
+- 6这不活跃就会关闭，生电区传来噩耗，生电区传来噩耗，睡觉超前现，我司不存在于当前了
+- 你做嘛
+- 对话时反而会吧
+- 这小乌龟说英语
+- 您的小时反而会再搁一次是o Fo不会再搁一天睡48his sererzy
+- d idalip地带转发
+- 你好惨
+- 你是太超过那是RNurs 还是您有限的救治。
+- 双向中继器
+- 欸Q群没空，
+- 看不过19g Inncene换了
+- 该要用你确定那些vth weds
+- 按回去
+- 一个人吗
+- 学生成汉语
+- ❌️
+- 6这是不具有正很
+- 666这么
+- 学生一个是太短了
+- 您被暂停了
+- 我封禁了
