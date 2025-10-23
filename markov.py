@@ -5,7 +5,7 @@ class model:
         pass
 
     def train(self, 数据: list[str]):
-        liste = [字.replace('\n','') for字 in 数据]
+        liste = [字.replace('\n','') for 字 in 数据]
         compte = 2
         self.前置 = {'\n':1}
         self.후置 = {1:'\n'}
@@ -36,4 +36,5 @@ class model:
             結果 += self.후置[現在]
             print(self.후置[現在], end='')
         return 結果
+
 
