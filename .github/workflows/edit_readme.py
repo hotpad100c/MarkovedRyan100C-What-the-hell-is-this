@@ -1,6 +1,6 @@
 s='''# MarkovedRyan100C
 To gennerate rubbish sentences.
-## Rubbish Of The Day
+## Rubbish Of The Hour
 - '''
 import sys
 sys.path.append('.')
