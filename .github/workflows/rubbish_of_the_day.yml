@@ -2,10 +2,10 @@ name: Rubbish of The Day
 on:
     workflow_dispatch:
     schedule:
-      - cron: "0 16 * * *"
+      - cron: "0 * * * *"
 jobs:
     rubbish_of_the_day:
-        name: Rubbish of The Day
+        name: Rubbish of The Hour
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v3
