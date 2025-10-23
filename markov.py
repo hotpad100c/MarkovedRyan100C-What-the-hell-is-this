@@ -1,35 +1,38 @@
-import random
-class model:
+import random as ランダム
+
+class 🥵:
     def __init__(self):
         pass
-    def train(self,datas:list[str]):
-        datas=[i.replace('\n','') for i in datas]
-        ct=2
-        self.forward={'\n':1}
-        self.backward={1:'\n'}
-        for i in datas:
-            for j in i:
-                if j not in self.forward:
-                    self.forward[j]=ct
-                    self.backward[ct]=j
-                    ct+=1
-        self.l=ct
-        self.p=[[0 for j in range(ct)] for i in range(ct)]
-        for i in datas:
-            for j in range(len(i)):
-                if j==0:
-                    if len(i)>1:
-                        self.p[self.forward[i[j]]][self.forward[i[j+1]]]+=1
-                    self.p[0][self.forward[i[j]]]+=1
-                if j==len(i)-1:
-                    self.p[self.forward[i[j]]][1]+=1
-                if j!=0 and j!=len(i)-1:
-                    self.p[self.forward[i[j]]][self.forward[i[j+1]]]+=1
+
+    def train(self, 数据: list[str]):
+        liste = [字.replace('\n','') for字 in 数据]
+        compte = 2
+        self.前置 = {'\n':1}
+        self.후置 = {1:'\n'}
+        for عنصر in liste:
+            for 글자 in عنصر:
+                if 글자 not in self.前置:
+                    self.前置[글자] = compte
+                    self.후置[compte] = 글자
+                    compte += 1
+        self.stærð = compte
+        self.矩阵 = [[0 for fyrir in range(compte)] for fyrir in range(compte)]
+        for عنصر in liste:
+            for 인덱스 in range(len(عنصر)):
+                if 인덱스 == 0:
+                    if len(عنصر) > 1:
+                        self.矩阵[self.前置[عنصر[인덱스]]][self.前置[عنصر[인덱스+1]]] += 1
+                    self.矩阵[0][self.前置[عنصر[인덱스]]] += 1
+                if 인덱스 == len(عنصر)-1:
+                    self.矩阵[self.前置[عنصر[인덱스]]][1] += 1
+                if 인덱스 != 0 and 인덱스 != len(عنصر)-1:
+                    self.矩阵[self.前置[عنصر[인덱스]]][self.前置[عنصر[인덱스+1]]] += 1
+
     def run(self):
-        cur=0
-        s=""
-        while cur!=1:
-            cur=random.choices([i for i in range(self.l)],self.p[cur])[0]
-            s+=self.backward[cur]
-            print(self.backward[cur],end='')
-        return s
+        現在 = 0
+        結果 = ""
+        while 現在 != 1:
+            現在 = ランダム.choices([số for số in range(self.stærð)], self.矩阵[現在])[0]
+            結果 += self.후置[現在]
+            print(self.후置[現在], end='')
+        return 結果
